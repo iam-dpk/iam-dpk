@@ -52,38 +52,6 @@ I enjoy **learning by building, experimenting with ideas, and solving real-world
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Smart Recommendation System
-
-A machine-learning based recommendation system built to provide personalized recommendations using user and item-related information.
-
-**Tech:** Python • Machine Learning • Pandas • Scikit-learn • Streamlit
-
-🔗 [View Repository](https://github.com/iam-dpk/Smart-Recommendation-System)
-
----
-
-### 👁️ FaceVision AI
-
-An AI-powered face recognition and attendance system that combines computer vision with a local database for managing attendance records.
-
-**Tech:** Python • OpenCV • Face Recognition • SQLite
-
-🔗 [View Repository](https://github.com/iam-dpk/FaceVision-AI)
-
----
-
-### 📊 DecodeLabs Internship
-
-A collection of work completed during my data analytics internship, including data cleaning, exploration, analysis and working with real-world datasets.
-
-**Tech:** Python • Pandas • Data Analysis • Excel
-
-🔗 [View Repository](https://github.com/iam-dpk/DecodeLabs-Internship)
-
----
-
 ## 📚 Currently Learning
 
 ```text
@@ -111,16 +79,6 @@ Alongside AI/ML, I'm improving my **Data Structures & Algorithms, SQL, Git/GitHu
 - 📈 Improve model evaluation and deployment skills
 - 🤝 Contribute to open-source projects
 - 💻 Build a strong portfolio of real-world projects
-
----
-
-## 📈 GitHub Activity
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-dpk&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-dpk&layout=compact&theme=transparent&hide_border=true)
-
 
 ---
 
