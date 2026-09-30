@@ -1,16 +1,141 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepak Kumar Shukla
 
-<!--
-**iam-dpk/iam-dpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Student | Artificial Intelligence & Machine Learning | Python | C++
 
-Here are some ideas to get you started:
+I'm a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, interested in building practical projects and improving my skills through hands-on learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy **learning by building, experimenting with ideas, and solving real-world problems with technology.**
+
+---
+
+## 🧠 About Me
+
+- 🎓 B.Tech — Artificial Intelligence & Machine Learning
+- 💻 Primary languages: **Python & C++**
+- 🤖 Interested in **Machine Learning, NLP, Computer Vision & Generative AI**
+- 🧩 Improving my **Data Structures & Algorithms** skills
+- 📊 Learning **Data Analysis and working with real-world datasets**
+- 🛠️ Building practical projects to strengthen my development skills
+- 🌱 Currently learning and exploring new areas of **AI/ML**
+
+---
+
+## 🛠️ Tech Stack
+
+ 
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+### 📊 Data & Database
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Smart Recommendation System
+
+A machine-learning based recommendation system built to provide personalized recommendations using user and item-related information.
+
+**Tech:** Python • Machine Learning • Pandas • Scikit-learn • Streamlit
+
+🔗 [View Repository](https://github.com/iam-dpk/Smart-Recommendation-System)
+
+---
+
+### 👁️ FaceVision AI
+
+An AI-powered face recognition and attendance system that combines computer vision with a local database for managing attendance records.
+
+**Tech:** Python • OpenCV • Face Recognition • SQLite
+
+🔗 [View Repository](https://github.com/iam-dpk/FaceVision-AI)
+
+---
+
+### 📊 DecodeLabs Internship
+
+A collection of work completed during my data analytics internship, including data cleaning, exploration, analysis and working with real-world datasets.
+
+**Tech:** Python • Pandas • Data Analysis • Excel
+
+🔗 [View Repository](https://github.com/iam-dpk/DecodeLabs-Internship)
+
+---
+
+## 📚 Currently Learning
+
+```text
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+NLP & Generative AI
+      ↓
+End-to-End AI Applications
+      ↓
+Deployment & Software Development
+```
+
+Alongside AI/ML, I'm improving my **Data Structures & Algorithms, SQL, Git/GitHub and problem-solving skills**.
+
+---
+
+## 🎯 Goals
+
+- 🚀 Build useful and practical AI/ML applications
+- 🧠 Strengthen Machine Learning and Deep Learning fundamentals
+- 🧩 Improve Data Structures & Algorithms
+- 💬 Learn more about NLP and Generative AI
+- 📈 Improve model evaluation and deployment skills
+- 🤝 Contribute to open-source projects
+- 💻 Build a strong portfolio of real-world projects
+
+---
+
+## 📈 GitHub Activity
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-dpk&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-dpk&layout=compact&theme=transparent&hide_border=true)
+
+
+---
+
+## 🤝 Connect With Me
+
+🌐 **Portfolio:** [deepakshukla.online](https://deepakshukla.online/)
+
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/dk-50s/)
+
+🐙 **GitHub:** [@iam-dpk](https://github.com/iam-dpk)
+
+📧 **Email:** ronirebe08@gmail.com
+
+---
+
+### 💡 Build. Learn. Solve. Repeat.
+
+> *I'm focused on learning consistently, building practical projects, and becoming a better engineer one project at a time.*
